@@ -1,2 +1,2 @@
 # slack
-Bunch of bash scripts to do things towards slack API.
+Bunch of bash hacks that solved my slack problems at the time.
